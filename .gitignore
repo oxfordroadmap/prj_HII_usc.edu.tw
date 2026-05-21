@@ -1,0 +1,38 @@
+# ====================================================================
+# Academic & Markdown Tools (Quarto / Jupyter)
+# ====================================================================
+.quarto/
+_site/
+*.html
+# Note: Keep HTML if you are deploying a static build directly from the main branch,
+# but ideally, use a GitHub Action workflow to build to the gh-pages branch.
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# ====================================================================
+# Data Science & Automation (Python / Pandas)
+# ====================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# ====================================================================
+# Reference Management & Local Backup Tools
+# ====================================================================
+# Prevents raw local Zotero exports or PDF scraps from being accidentally tracked
+*.log
+*.bak
+*.tmp
+
+# ====================================================================
+# System & IDE Artifacts
+# ====================================================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
