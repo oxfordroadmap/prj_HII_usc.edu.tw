@@ -1,0 +1,16 @@
+# Site Settings
+title: "prj_HII_usc.edu.tw"
+description: "[ZH] 本行動研究旨在對實踐大學創意產業博士班（GICI-USC）之學術治理與行政風控進行實證壓力測試，記錄科研生命週期管理（RCM）與教育部規範之符合性。[EN] An action research project providing an empirical stress test on the academic governance and value propositions of the Doctoral Program in Creative Industries, Shih Chien University (GICI-USC), Taiwan."
+
+# Language Configuration
+lang: "zh-TW" # Primary default language for administrative logs
+languages: ["zh-TW", "en"]
+
+# Exclude research artifacts from the Jekyll build process
+exclude:
+  - README.md
+  - .gitignore
+  - .quarto/
+  - .ipynb_checkpoints/
+  - env/
+  - venv/
