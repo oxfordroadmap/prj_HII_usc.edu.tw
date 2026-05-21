@@ -1,5 +1,17 @@
-* [en] Project: Governance of Academic Research Integrity ─ Records and Audits
+
 * [zh-t] 專案：學術倫理治理 ─ 記錄審計
+* [en] Project: Governance of Academic Research Integrity ─ Records and Audits
+
+> [!TIP]
+> 參見 See Also: 
+> * OSF 開放科學項目 https://osf.io/xz3rg/ DOI: [10.17605/OSF.IO/XZ3RG](https://doi.org/10.17605/OSF.IO/XZ3RG)
+> 	* [zh-t] 新時代高教博碩士生指導之數位與學倫治理整合：基於開放科學的最佳實踐與快速爭端解決機制
+> 	* [en] Integrating Digital and Academic Integrity in New-Era Ph.D. and Master Mentorship: Best Practices and Rapid Conflict Resolution Mechanisms Based on Open Science
+> * OSF 開放科學項目 https://osf.io/dpjyn/ DOI: [10.17605/OSF.IO/DPJYN](https://doi.org/10.17605/OSF.IO/DPJYN)
+> 	* [zh-t] 策劃永續的人工智慧和半導體生態系統：監管科技與金融科技框架
+> 	* [en] Orchestrating Sustainable AI and Semiconductor Ecosystems: RegTech & FinTech Frameworks
+
+
 # [專案名稱/案件編號]：學術倫理治理 ─ 記錄審計
 * **Case ID:** 2026-RCM-GICI-USC-001
 * 中文: 
@@ -12,6 +24,12 @@
 	* **Target Institution:** Shih Chien University and its offices:  [Office of Research and Development (ORD-USC)](https://rd.usc.edu.tw/) , and [Office of International Affairs (OIA-USC)](https://uscoia.usc.edu.tw/) & 
 	* **Target Program:**  [Doctoral Program in Creative Industries (GICI-USC)](https://gici.usc.edu.tw/) and [College of Management](https://manage.usc.edu.tw/), Shih Chien University.
 	* **Supervisory Authority**: Taiwan Ministry of Education,  [Petition Mailbox](https://email.moe.gov.tw/). Pursuant to [ the *Guidelines for Handling Academic Ethics Cases in Higher Education Institutions*](https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001766&KeyWord=%E5%B0%88%E7%A7%91%E4%BB%A5%E4%B8%8A%E5%AD%B8%E6%A0%A1%E5%AD%B8%E8%A1%93%E5%80%AB%E7%90%86%E6%A1%88%E4%BB%B6%E8%99%95%E7%90%86%E5%8E%9F%E5%89%87)
+
+> [!CAUTION]
+> * 中文公眾告示 
+> 本專案（prj_HII_usc.edu.tw）目前定位為內部暨開放性行動研究計畫，旨在進行學術治理、行政風控與科研生命週期管理（RCM）之實證壓力測試。鑑於相關行政調查與學術倫理審查評估仍在持續進行中，本專案之數據與紀錄不建議、亦不鼓勵用於任何即時之新聞報導或媒體輿論操作。
+> * Usage Notice
+> This project currently serves as both an internal and open action research repository tracking academic governance and regulatory compliance. Because administrative reviews and formal stress tests are actively ongoing, the use of this data for journalistic, news reporting, or media purposes is highly discouraged at this stage.
 
 ---
 ## 元文檔說明
