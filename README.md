@@ -1,19 +1,17 @@
-
-
 * [en] Project: Governance of Academic Research Integrity ─ Records and Audits
 * [zh-t] 專案：學術倫理治理 ─ 記錄審計
 # [專案名稱/案件編號]：學術倫理治理 ─ 記錄審計
-* ***Case ID:** 2026-RCM-001
+* **Case ID:** 2026-RCM-GICI-USC-001
 * 中文: 
-	* **研究者/記錄者/陳情人**: [您的名字或代號]
-	* **目標機構**: [機構全名]
-	* **目標計畫/單位**: [相關系所或計畫名稱]
-	* **主管機關**: [如：教育部高教司]
+	* **研究者/記錄者/陳情人**: Han-Teng Liao [ORCID: 0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599), [‪Google Scholar‬](https://scholar.google.com/citations?user=NAeKcO4AAAAJ)
+	* **目標機構**: 實踐大學及其行政承辦單位 [研究發展處 ORD-USC, Office of Research and Development ](https://rd.usc.edu.tw/) 、[國際事務處 OIA-USC, Office of International Affairs](https://uscoia.usc.edu.tw/)
+	* **目標計畫/單位**: [實踐大學創意產業博士班 GICI-USC](https://gici.usc.edu.tw/)、[實踐大學管理學院](https://manage.usc.edu.tw/)
+	* **主管機關**: 教育部 [部長民意信箱](https://email.moe.gov.tw/)依據 [專科以上學校學術倫理案件處理原則](https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001766&KeyWord=%E5%B0%88%E7%A7%91%E4%BB%A5%E4%B8%8A%E5%AD%B8%E6%A0%A1%E5%AD%B8%E8%A1%93%E5%80%AB%E7%90%86%E6%A1%88%E4%BB%B6%E8%99%95%E7%90%86%E5%8E%9F%E5%89%87)
 * English: 
-	* **Researcher/Auditor/?:** [您的名字或代號]
-	* **Target Institution:** [機構全名]
-	* **Target Program:** [相關系所或計畫名稱]
-	* **Supervisory Authority**: [如：中華民國教育部 (Ministry of Education, Taiwan) ]
+	* **Researcher/Auditor/Complainant**:  Han-Teng Liao [ORCID: 0000-0003-1081-5599](https://orcid.org/0000-0003-1081-5599), [‪Google Scholar‬](https://scholar.google.com/citations?user=NAeKcO4AAAAJ)
+	* **Target Institution:** Shih Chien University and its offices:  [Office of Research and Development (ORD-USC)](https://rd.usc.edu.tw/) , and [Office of International Affairs (OIA-USC)](https://uscoia.usc.edu.tw/) & 
+	* **Target Program:**  [Doctoral Program in Creative Industries (GICI-USC)](https://gici.usc.edu.tw/) and [College of Management](https://manage.usc.edu.tw/), Shih Chien University.
+	* **Supervisory Authority**: Taiwan Ministry of Education,  [Petition Mailbox](https://email.moe.gov.tw/). Pursuant to [ the *Guidelines for Handling Academic Ethics Cases in Higher Education Institutions*](https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001766&KeyWord=%E5%B0%88%E7%A7%91%E4%BB%A5%E4%B8%8A%E5%AD%B8%E6%A0%A1%E5%AD%B8%E8%A1%93%E5%80%AB%E7%90%86%E6%A1%88%E4%BB%B6%E8%99%95%E7%90%86%E5%8E%9F%E5%89%87)
 
 ---
 ## 元文檔說明
@@ -69,11 +67,12 @@
 
 下表紀錄本案之關鍵行政事件，完整時序、行政週期延遲與甘特圖數據可視化，請參見 [./Logs/Governance_Log.md](./Logs/Governance_Log.md) 。
 
-| **日期** Date | 描述 **Event Description** | 關係人 **Stakeholders**   | 狀態 **Status** |
-| ----------- | ------------------------ | ---------------------- | ------------- |
-| 2026-03-XX  | 初次提出科研產權爭議               | Program Director       | Pending       |
-| 2026-05-XX  | 送達最後期限通知                 | R&D Office Coordinator | Expired       |
-| 2026-05-21  | 國際學術審查受理通知               | IAFOR Administration   | Accepted      |
+| **日期** Date | 描述 **Event Description** | 關係人 **Stakeholders** | 狀態 **Status** |
+| ----------- | ------------------------ | -------------------- | ------------- |
+|             |                          |                      |               |
+|             |                          |                      |               |
+|             |                          |                      |               |
+
 
 提示：當目標機構發生行政逾期、沈默或程序拒絕時，應於此表即時更新對應狀態（如 `Expired` 或 `Effective obstruction`）。
 
